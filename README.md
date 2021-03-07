@@ -18,4 +18,10 @@ Discord : Danut#6031
 ╚═════╝░░╚═════╝░╚══════╝░╚════╝░╚══════╝  ╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░  ░░╚═╝╚═════╝░
 
 
+--------------------
+Tot ce este in 'tutorial.lua' trebuie citit si aplicat in server-ul vostru !!
+
+Fiti foarte atenti, resursa este functionala 100%.
+
+
 07/03/2021
